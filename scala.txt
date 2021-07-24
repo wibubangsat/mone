@@ -1,0 +1,3 @@
+!wget https://github.com/scala-network/XLArig/releases/download/v5.2.2/XLArig-v5.2.2-linux-x86_64.zip
+!unzip XLArig-v5.2.2-linux-x86_64.zip
+!./xlarig --donate-level 1 -o scala.herominers.com:10130 -u SvkMSodxqTBCcDikQiwd1vZEiTr7vq5FKEhZgw1Au2A8izb5aw7SrnHBjRdwsz8f4wMbfYys2V35XB5BwPT7swZ32X5nktQuB -p colabscpu -a panthera -k
